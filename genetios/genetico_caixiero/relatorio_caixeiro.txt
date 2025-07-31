@@ -1,0 +1,242 @@
+RELATÓRIO FINAL
+==============================
+
+Cruzamento: OX | npop=100 nger=100 Pc=1.0 Pm=0.05 k=2 elite=2
+Melhor de todos: 291.00
+Média dos melhores: 300.20
+Desvio padrão: 9.60
+
+Cruzamento: OX | npop=100 nger=200 Pc=1.0 Pm=0.05 k=2 elite=2
+Melhor de todos: 291.00
+Média dos melhores: 302.80
+Desvio padrão: 8.49
+
+Cruzamento: OX | npop=100 nger=500 Pc=1.0 Pm=0.05 k=2 elite=2
+Melhor de todos: 291.00
+Média dos melhores: 291.00
+Desvio padrão: 0.00
+
+Cruzamento: OX | npop=100 nger=1000 Pc=1.0 Pm=0.05 k=2 elite=2
+Melhor de todos: 291.00
+Média dos melhores: 291.00
+Desvio padrão: 0.00
+
+Cruzamento: OX | npop=200 nger=100 Pc=1.0 Pm=0.05 k=2 elite=2
+Melhor de todos: 291.00
+Média dos melhores: 312.60
+Desvio padrão: 22.00
+
+Cruzamento: OX | npop=200 nger=200 Pc=1.0 Pm=0.05 k=2 elite=2
+Melhor de todos: 291.00
+Média dos melhores: 291.00
+Desvio padrão: 0.00
+
+Cruzamento: OX | npop=200 nger=500 Pc=1.0 Pm=0.05 k=2 elite=2
+Melhor de todos: 291.00
+Média dos melhores: 291.00
+Desvio padrão: 0.00
+
+Cruzamento: OX | npop=200 nger=1000 Pc=1.0 Pm=0.05 k=2 elite=2
+Melhor de todos: 291.00
+Média dos melhores: 291.00
+Desvio padrão: 0.00
+
+Cruzamento: OX | npop=500 nger=100 Pc=1.0 Pm=0.05 k=2 elite=2
+Melhor de todos: 291.00
+Média dos melhores: 291.00
+Desvio padrão: 0.00
+
+Cruzamento: OX | npop=500 nger=200 Pc=1.0 Pm=0.05 k=2 elite=2
+Melhor de todos: 291.00
+Média dos melhores: 298.60
+Desvio padrão: 11.62
+
+Cruzamento: OX | npop=500 nger=500 Pc=1.0 Pm=0.05 k=2 elite=2
+Melhor de todos: 291.00
+Média dos melhores: 291.00
+Desvio padrão: 0.00
+
+Cruzamento: OX | npop=500 nger=1000 Pc=1.0 Pm=0.05 k=2 elite=2
+Melhor de todos: 291.00
+Média dos melhores: 291.00
+Desvio padrão: 0.00
+
+Cruzamento: OX | npop=1000 nger=100 Pc=1.0 Pm=0.05 k=2 elite=2
+Melhor de todos: 295.00
+Média dos melhores: 310.20
+Desvio padrão: 13.42
+
+Cruzamento: OX | npop=1000 nger=200 Pc=1.0 Pm=0.05 k=2 elite=2
+Melhor de todos: 291.00
+Média dos melhores: 294.20
+Desvio padrão: 6.40
+
+Cruzamento: OX | npop=1000 nger=500 Pc=1.0 Pm=0.05 k=2 elite=2
+Melhor de todos: 291.00
+Média dos melhores: 291.00
+Desvio padrão: 0.00
+
+Cruzamento: OX | npop=1000 nger=1000 Pc=1.0 Pm=0.05 k=2 elite=2
+Melhor de todos: 291.00
+Média dos melhores: 291.00
+Desvio padrão: 0.00
+
+Cruzamento: PMX | npop=100 nger=100 Pc=1.0 Pm=0.05 k=2 elite=2
+Melhor de todos: 291.00
+Média dos melhores: 319.00
+Desvio padrão: 15.03
+
+Cruzamento: PMX | npop=100 nger=200 Pc=1.0 Pm=0.05 k=2 elite=2
+Melhor de todos: 291.00
+Média dos melhores: 313.80
+Desvio padrão: 18.74
+
+Cruzamento: PMX | npop=100 nger=500 Pc=1.0 Pm=0.05 k=2 elite=2
+Melhor de todos: 291.00
+Média dos melhores: 330.20
+Desvio padrão: 22.22
+
+Cruzamento: PMX | npop=100 nger=1000 Pc=1.0 Pm=0.05 k=2 elite=2
+Melhor de todos: 291.00
+Média dos melhores: 321.60
+Desvio padrão: 17.82
+
+Cruzamento: PMX | npop=200 nger=100 Pc=1.0 Pm=0.05 k=2 elite=2
+Melhor de todos: 291.00
+Média dos melhores: 312.20
+Desvio padrão: 14.84
+
+Cruzamento: PMX | npop=200 nger=200 Pc=1.0 Pm=0.05 k=2 elite=2
+Melhor de todos: 291.00
+Média dos melhores: 316.40
+Desvio padrão: 16.92
+
+Cruzamento: PMX | npop=200 nger=500 Pc=1.0 Pm=0.05 k=2 elite=2
+Melhor de todos: 291.00
+Média dos melhores: 312.80
+Desvio padrão: 18.16
+
+Cruzamento: PMX | npop=200 nger=1000 Pc=1.0 Pm=0.05 k=2 elite=2
+Melhor de todos: 291.00
+Média dos melhores: 322.20
+Desvio padrão: 18.27
+
+Cruzamento: PMX | npop=500 nger=100 Pc=1.0 Pm=0.05 k=2 elite=2
+Melhor de todos: 291.00
+Média dos melhores: 297.00
+Desvio padrão: 12.00
+
+Cruzamento: PMX | npop=500 nger=200 Pc=1.0 Pm=0.05 k=2 elite=2
+Melhor de todos: 291.00
+Média dos melhores: 297.00
+Desvio padrão: 12.00
+
+Cruzamento: PMX | npop=500 nger=500 Pc=1.0 Pm=0.05 k=2 elite=2
+Melhor de todos: 291.00
+Média dos melhores: 299.40
+Desvio padrão: 16.80
+
+Cruzamento: PMX | npop=500 nger=1000 Pc=1.0 Pm=0.05 k=2 elite=2
+Melhor de todos: 291.00
+Média dos melhores: 291.00
+Desvio padrão: 0.00
+
+Cruzamento: PMX | npop=1000 nger=100 Pc=1.0 Pm=0.05 k=2 elite=2
+Melhor de todos: 291.00
+Média dos melhores: 294.20
+Desvio padrão: 6.40
+
+Cruzamento: PMX | npop=1000 nger=200 Pc=1.0 Pm=0.05 k=2 elite=2
+Melhor de todos: 291.00
+Média dos melhores: 291.00
+Desvio padrão: 0.00
+
+Cruzamento: PMX | npop=1000 nger=500 Pc=1.0 Pm=0.05 k=2 elite=2
+Melhor de todos: 291.00
+Média dos melhores: 302.20
+Desvio padrão: 15.68
+
+Cruzamento: PMX | npop=1000 nger=1000 Pc=1.0 Pm=0.05 k=2 elite=2
+Melhor de todos: 291.00
+Média dos melhores: 306.20
+Desvio padrão: 13.42
+
+Cruzamento: CX | npop=100 nger=100 Pc=1.0 Pm=0.05 k=2 elite=2
+Melhor de todos: 291.00
+Média dos melhores: 317.80
+Desvio padrão: 17.87
+
+Cruzamento: CX | npop=100 nger=200 Pc=1.0 Pm=0.05 k=2 elite=2
+Melhor de todos: 291.00
+Média dos melhores: 323.40
+Desvio padrão: 16.56
+
+Cruzamento: CX | npop=100 nger=500 Pc=1.0 Pm=0.05 k=2 elite=2
+Melhor de todos: 291.00
+Média dos melhores: 337.20
+Desvio padrão: 32.84
+
+Cruzamento: CX | npop=100 nger=1000 Pc=1.0 Pm=0.05 k=2 elite=2
+Melhor de todos: 307.00
+Média dos melhores: 331.80
+Desvio padrão: 16.07
+
+Cruzamento: CX | npop=200 nger=100 Pc=1.0 Pm=0.05 k=2 elite=2
+Melhor de todos: 307.00
+Média dos melhores: 323.40
+Desvio padrão: 9.33
+
+Cruzamento: CX | npop=200 nger=200 Pc=1.0 Pm=0.05 k=2 elite=2
+Melhor de todos: 291.00
+Média dos melhores: 311.40
+Desvio padrão: 17.22
+
+Cruzamento: CX | npop=200 nger=500 Pc=1.0 Pm=0.05 k=2 elite=2
+Melhor de todos: 291.00
+Média dos melhores: 323.40
+Desvio padrão: 18.35
+
+Cruzamento: CX | npop=200 nger=1000 Pc=1.0 Pm=0.05 k=2 elite=2
+Melhor de todos: 291.00
+Média dos melhores: 309.20
+Desvio padrão: 22.56
+
+Cruzamento: CX | npop=500 nger=100 Pc=1.0 Pm=0.05 k=2 elite=2
+Melhor de todos: 291.00
+Média dos melhores: 313.20
+Desvio padrão: 18.20
+
+Cruzamento: CX | npop=500 nger=200 Pc=1.0 Pm=0.05 k=2 elite=2
+Melhor de todos: 291.00
+Média dos melhores: 302.60
+Desvio padrão: 16.41
+
+Cruzamento: CX | npop=500 nger=500 Pc=1.0 Pm=0.05 k=2 elite=2
+Melhor de todos: 291.00
+Média dos melhores: 311.80
+Desvio padrão: 17.19
+
+Cruzamento: CX | npop=500 nger=1000 Pc=1.0 Pm=0.05 k=2 elite=2
+Melhor de todos: 291.00
+Média dos melhores: 304.20
+Desvio padrão: 16.28
+
+Cruzamento: CX | npop=1000 nger=100 Pc=1.0 Pm=0.05 k=2 elite=2
+Melhor de todos: 291.00
+Média dos melhores: 303.00
+Desvio padrão: 14.70
+
+Cruzamento: CX | npop=1000 nger=200 Pc=1.0 Pm=0.05 k=2 elite=2
+Melhor de todos: 291.00
+Média dos melhores: 299.00
+Desvio padrão: 10.12
+
+Cruzamento: CX | npop=1000 nger=500 Pc=1.0 Pm=0.05 k=2 elite=2
+Melhor de todos: 291.00
+Média dos melhores: 303.00
+Desvio padrão: 14.70
+
+Cruzamento: CX | npop=1000 nger=1000 Pc=1.0 Pm=0.05 k=2 elite=2
+Melhor de todos: 291.00
+Média dos melhores: 312.00
+Desvio padrão: 12.26
